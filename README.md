@@ -11,33 +11,7 @@
         <stop offset="0%" stop-color="#00f5ff"/>
         <stop offset="100%" stop-color="#a855f7"/>
       </linearGradient>
-      <style>
-        @keyframes pulse {
-          0%, 100% { opacity: 0.75; }
-          50% { opacity: 1; }
-        }
-        @keyframes float {
-          0%, 100% { transform: translateY(0px); }
-          50% { transform: translateY(-10px); }
-        }
-        .aether-text {
-          font: bold 72px 'Arial Black', sans-serif;
-          fill: url(#glow);
-          /* Note: drop-shadow filters can be heavy on some mobile browsers */
-          filter: drop-shadow(0 0 10px rgba(0, 245, 255, 0.6));
-          animation: pulse 3s ease-in-out infinite, float 7s ease-in-out infinite;
-        }
-        .subtitle {
-          font: 20px 'Courier New', monospace;
-          fill: #94a3b8;
-          letter-spacing: 2px;
-          animation: pulse 4.5s ease-in-out infinite;
-        }
-      </style>
-    </defs>
-    <text x="50%" y="70" text-anchor="middle" class="aether-text">AETHER</text>
-    <text x="50%" y="110" text-anchor="middle" class="subtitle">Autonomous • Intelligent • Ethereal</text>
-  </svg>
+      
 
 </div>
 
