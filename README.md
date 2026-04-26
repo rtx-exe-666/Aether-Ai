@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header / Banner -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/aether-banner.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHF3enV1MWYycWdpOGZ0amlibWZ0b2xydDh4dHppNW91d29nN2VmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" 
        alt="Aether AI Agent - Animated Banner" 
        width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 
