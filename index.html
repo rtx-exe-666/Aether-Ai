@@ -262,37 +262,9 @@ textarea.inp::placeholder{color:rgba(100,116,139,.38)}
       </div>
     </div>
 
-    <!-- API Key Setup Screen -->
-    <div class="setup" id="setup-screen">
-      <div class="setup-icon">🔑</div>
-      <h2>Connect Your Free Gemini API Key</h2>
-      <p>Get your <strong>100% free</strong> API key from Google AI Studio — no credit card, 1,500 requests/day free forever.</p>
-      <p><a href="https://aistudio.google.com/app/apikey" target="_blank">→ Click here to get your free key at aistudio.google.com</a></p>
-      <div class="key-row">
-        <input class="key-inp" id="key-input" type="password" placeholder="Paste your Gemini API key here…"/>
-        <button class="key-btn" onclick="activateKey()">ACTIVATE</button>
-      </div>
-      <p class="setup-note">🔒 Your key is stored only in your browser (localStorage). Never shared.</p>
-    </div>
+    
 
-    <!-- Chat area (hidden until key set) -->
-    <div id="chat-screen" style="display:none">
-      <div class="msgs" id="msgs"></div>
-      <div class="inp-area">
-        <div class="inp-shell">
-          <textarea class="inp" id="inp" rows="1" placeholder="Message Aether… (Enter ↵ to send)"></textarea>
-          <div class="inp-ft">
-            <span class="hint">SHIFT+ENTER for newline</span>
-            <span class="chr" id="chr">0</span>
-          </div>
-        </div>
-        <button class="sbtn" id="send-btn" onclick="sendMessage()" disabled>
-          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
-          </svg>
-        </button>
-      </div>
-    </div>
+   
 
     <!-- Footer -->
     <div class="ftr">
