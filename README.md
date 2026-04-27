@@ -19,7 +19,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
-  [![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+  [![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)](https://rtx-exe-666.github.io/Aether-Ai/
+)
 
 </div>
 
@@ -36,9 +37,5 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aether-ai-agent.git
-cd aether-ai-agent
+https://rtx-exe-666.github.io/Aether-Ai/
 
-pip install -r requirements.txt
-
-python run_aether.py --task "Your task here"
