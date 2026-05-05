@@ -15,7 +15,7 @@
 
 </div>
 
-  <h3>🌌 An advanced autonomous AI agent that reasons, plans, and acts across the digital ether.</h3>
+  <h3>🌌 Aether is a advanced autonomous AI agent that reasons, plans, and acts across the digital ether.</h3>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
